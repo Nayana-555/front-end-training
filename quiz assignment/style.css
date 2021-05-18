@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+}
+.btn {
+  background-color: blue;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+.container {
+  border: 5px;
+  border-style: double;
+  width: auto;
+  height: auto;
+}
+.line {
+  border: 2px solid black;
+}
+.score button {
+  align-items: bottom;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
